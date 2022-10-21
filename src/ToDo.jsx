@@ -54,7 +54,7 @@ class ToDo extends React.Component{
     }
 
     render(){
-        //데이터 찾아오기
+        //데이터 찾아오기.
         const item = this.state.item;
         return(
             <ListItem>
